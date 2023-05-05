@@ -7,7 +7,7 @@
 - DevSecOps
 - Strong background in both open source and enterprise software engineering
 - Focus on scalable Golang-based microservices
-- Expertise demonstrated through contributions to Docker and Golang
+- Expertise demonstrated through opensource contributions to the Docker and Golang projects
 - Valuable asset in any cloud environment
 - Proven track record of leading teams and mentoring junior developers
 - Committed to ensuring security is always top-of-mind in all aspects of software development.
