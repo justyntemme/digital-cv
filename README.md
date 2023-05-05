@@ -1,5 +1,3 @@
-# Justyn Temme
-
 **Contact Information:**
 - Email: justyntemme@gmail.com
 - GitHub: https://github.com/justyntemme
