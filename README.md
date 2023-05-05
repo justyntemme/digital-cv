@@ -16,7 +16,7 @@
 ## Work History
 
 ### Dirishti
-*DevSecOps Engineer* \n
+*DevSecOps Engineer* 
 *Oct 2022 - Dec 2022*
 
 - Streamlined Dockerfiles using multi-stage builds to decrease build times by 70% and speed up time to delivery.
@@ -24,7 +24,7 @@
 - Deployed microservices in a cloud agnostic solution to GCP.
 
 ### Pylons
-*DevOps Engineer* \n
+*DevOps Engineer* 
 *Jan 2022 - Nov 2022*
 
 - Built CI\CD pipelines to deploy Golang-based microservices in a cloud kubernetes environment hosted on GCP.
@@ -36,7 +36,7 @@
 - Architect cloud solutions and built out kubernetes environments.
 
 ### Centene
-*Application Software Engineer (Golang)* \n
+*Application Software Engineer (Golang)* 
 *Aug 2020 - Oct 2021*
 
 - Built scalable Golang-based microservices with thousands of API calls a minute in a high-availability clustered environment.
@@ -50,13 +50,13 @@
 - Migrated deployment pipelines from Jenkins to Gitlab.
 
 ### Linkedin Learning
-*Golang consultant* \n
+*Golang consultant* 
 *Aug 2021 - Oct 2021*
 
 - Work with an international team to review high quality questions, in the field of golang, for students taking the course assessment.
 
 ### Apple / Amarda Group
-*Application Software Engineer (Golang)* \n
+*Application Software Engineer (Golang)* 
 *March 2019 - Oct 2020*
 
 - Created documentation for internal applications.
@@ -64,7 +64,7 @@
 - Utilized Hugo and golang to create documentation engines to be used around the organization.
 
 ### Vertical Ops
-*Backend Application Developer (Golang)* \n
+*Backend Application Developer (Golang)* 
 *Dec 2018 - Feb 2019*
 
 - Developed back end services in Golang using GORM.
@@ -72,7 +72,7 @@
 - Review frontend/backend code from developers
 
 ### Smash Dev Shop
-*Backend Web Developer* \n
+*Backend Web Developer* 
 *Sept 2018 - Nov 2018* 
 
 - Assisted with website migrations from legacy versions of Apache & Linux.
@@ -81,7 +81,7 @@
 - Created utility and upkeep scripts to perform tasks such as automatic AWS backup and recovery of all databases and web directories.
 
 ### Technical Support Specialist, RSM Marketing Services
-*Technical Support Specialist* \n 
+*Technical Support Specialist*  
 *Oct 2017 - Aug 2018*
 
 - Worked directly with clients to meet, take requests, train
@@ -92,7 +92,7 @@
 - Various CentOS / WHM / cPanel server administration tasks.
 
 ### NextWaveSolutions
-*Owner /Founder* \n
+*Owner /Founder* 
 *Oct 2016* 
 
 - Built and maintained applications for various clients using Javascript, Golang, and PHP (WordPress).
