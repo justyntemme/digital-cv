@@ -92,7 +92,7 @@
 - Various CentOS / WHM / cPanel server administration tasks.
 
 ### NextWaveSolutions
-*Owner /Founder* 
+*Owner & Founder* 
 *Oct 2016* 
 
 - Built and maintained applications for various clients using Javascript, Golang, and PHP (WordPress).
