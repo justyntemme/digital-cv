@@ -19,6 +19,9 @@
 *DevSecOps Engineer* 
 *Oct 2022 - Dec 2022*
 
+- Ensure no vulnerable packages were used in the packaging of the applications
+- Automate vulnerability/package scanning to occur whenever a new version is tagged prior to release for complience
+- Create vulnerability analysis reports on tests conducted with tools to test security of api's
 - Streamlined Dockerfiles using multi-stage builds to decrease build times by 70% and speed up time to delivery.
 - Integrated kubeflow with MLOps CI/CD pipelines for training data.
 - Deployed microservices in a cloud agnostic solution to GCP.
@@ -29,9 +32,9 @@
 
 - Built CI\CD pipelines to deploy Golang-based microservices in a cloud kubernetes environment hosted on GCP.
 - Utilized prometheus monitoring to detect downtime and errors.
+- Review software design proposals to ensure API's were secure and safe from attacks like IDORS
 - Built dashboards in Grafana to better understand usage and traffic load.
 - Secured application development environment using RBAC to promote release candidates from a pre-prod environment to production.
-- Reviewed code and mentored developers to ensure security was a primary concern.
 - Created terraform scripts to ensure rapid redeployment of production environment in case of a GCP outage in a specific region.
 - Architect cloud solutions and built out kubernetes environments.
 
