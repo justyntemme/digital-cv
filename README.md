@@ -87,7 +87,6 @@
 *Technical Support Specialist*  
 *Oct 2017 - Aug 2018*
 
-- Worked directly with clients to meet, take requests, train
 - Worked directly with clients to meet, take requests, train in WordPress, discuss project status.
 - Resolved email server issues.
 - Managed and changed DNS configurations, and more.
