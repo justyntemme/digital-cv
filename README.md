@@ -106,4 +106,6 @@
 - Mustafa Syrek, CTO / Assured Pediatrics
 - Demby Genesis Abella, Sr Software Engineer / PhishLabs
 
+*https://justyntemme.github.io/digital-cv/*
+
 
